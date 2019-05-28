@@ -119,3 +119,11 @@ h1.logo{
 .icon_area{
     padding-top: 30px;
 }
+.fa-github{
+    font-size: 30px;
+}
+.fa-github a{
+    padding-top: 10px;
+    font-size: 20px;
+    color: black;
+}
