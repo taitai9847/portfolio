@@ -1,0 +1,121 @@
+#first{
+    background-image: linear-gradient(to right, rgb(190, 147, 197), rgb(123, 198, 204));
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex; 
+    box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.3);
+}
+#first .header{
+    display: block;
+    
+}
+.header .logo_title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 94px;
+    color: #fff;
+    line-height: 1;
+    letter-spacing: -2px;
+}
+.header .logo_desc{
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
+#second{
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+h1.logo{
+    display: block;
+}
+.title_skill h1{
+    text-align: center;
+}
+.logo{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 12px;
+    width: 70vw;
+    height: 70vh;
+    box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.3);
+}
+.profile_logo{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 20px;
+}
+.profile_picture{
+    text-align: center;
+    padding-top: 80px;
+}
+.profile_text{
+   padding-top: 50px;
+   padding-right: 30px;
+   padding-left: 30px;
+}
+.profile_text p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.profile_text h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#third{
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.title_skill{
+    padding-top: 200px;
+}
+.title_skill h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.skill{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 12px;
+    width: 70vw;
+    height: 70vh;
+    box-shadow: 0px 20px 80px 0px rgba(153, 153, 153, 0.3);
+}
+.skill_logo{
+    text-align: center;
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.markup{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.frontend{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 60px;
+}
+.studynow{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#third .fab{
+    font-size: 50px;
+}
+.icon_area{
+    padding-top: 30px;
+}
